@@ -13,8 +13,6 @@ class BankAccount:
         self.deposit_count = 0
         self.balance = balance
 
-
-
     def display(self):
         print("===============Bank Account Details=====================")
         print("Account Number:",self.acc_no)
