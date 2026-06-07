@@ -8,6 +8,7 @@
 
 CREATE DATABASE sbi_hyderabad_bank;
 
+\c sbi_hyderabad_bank
 -- =========================================================
 -- CONNECT DATABASE
 -- =========================================================
